@@ -6,20 +6,21 @@
 
 🚀 Full Stack Developer | 💻 React, Redux, PHP (Laravel, CodeIgniter) Enthusiast | 🌐 Database Expert
 
-Welcome to my GitHub profile! I'm **Divyang**, a passionate **full-stack developer** with a focus on creating robust and efficient web applications. With expertise in **React, Redux, PHP (Laravel, CodeIgniter)**, and proficiency in various databases including **MySQL, PostgreSQL, MongoDB, and Firebase**, I bring over **severalyears of experience** to the tech industry. Let's explore some of my coding ventures!
+Welcome to my GitHub profile! I'm **Divyang**, a dedicated **Full Stack Developer** with a keen interest in building robust and efficient web applications. With in-depth expertise in **React**, **Redux**, **PHP (Laravel, CodeIgniter)**, and proficiency in a variety of databases including **MySQL**, **PostgreSQL**, **MongoDB**, and **Firebase**, I have accumulated several years of experience in the tech industry. Let's dive into some of my exciting projects and coding adventures!
 
 ## 💻 My Tech Stack
 
-- Frontend: **React.js**, **Redux**, **JavaScript**, **HTML5**, **CSS3**
-- Backend: **PHP (Laravel, CodeIgniter)**
+- Frontend: **React.js**, **Redux**, **JavaScript**, **HTML5**, **CSS3**, **Tailwind**, **Chakra UI**
+- Backend: **PHP (Laravel, CodeIgniter)**, **Node JS (Express JS)**
 - Databases: **MySQL**, **PostgreSQL**, **MongoDB**, **Firebase**
+- DevOps : **LAMP Stack Setup**, **Github**, **Deployments on Digitalocean / AWS / Googe Cluod**
 
 ## 🌱 Learning & Exploring
 
 Continuous learning is key to staying relevant in the ever-evolving tech landscape. Currently, I'm diving into:
 
 - **Advanced React Techniques**: Exploring state management patterns and performance optimizations in React.
-- **Server-side Rendering with Next.js**: Enhancing SEO and performance with server-rendered React applications.
+- **Server-side Rendering with Next.js and Remix.Run**: Enhancing SEO and performance with server-rendered React applications.
 
 ## 🚀 My Projects
 
@@ -38,7 +39,7 @@ Let's take a glance at some of the projects I've contributed to:
      - Companies Management
 
 2. **Zextras (Carbonio)**
-   - **Domain:** Private Organization Communication Management (Google Workspace Replicate)
+   - **Domain:** Private Organization Communication Management (Google Workspace Replication)
    - **Description:** A suite of applications like Gmail, Drive, and Meet tailored for private organizations to be hosted on their own servers.
    - **Responsibilities:** 
      - Login Management
@@ -60,6 +61,8 @@ Let's take a glance at some of the projects I've contributed to:
 I'm always open to connecting with fellow developers, tech enthusiasts, and anyone passionate about innovation. Feel free to reach out through:
 
 - Email: **devxdodiya@gmail.com**
+- Skype : **divyangdodiya**
+- Linked In : **https://www.linkedin.com/in/divyang-dodiya/**
 
 ## ⚡ Fun Fact
 
