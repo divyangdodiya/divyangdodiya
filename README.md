@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b76111gd21s8467va0k3n1wgrgvxvhtwdfclbr7luk170&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Divyang Dodiya" width="1000px"/>
+<!--   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b76111gd21s8467va0k3n1wgrgvxvhtwdfclbr7luk170&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Divyang Dodiya" width="1000px"/> -->  
 </p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyangdodiya&theme=highcontrast)
 
 # Hello, I'm Divyang! 👋
 
