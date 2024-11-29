@@ -6,7 +6,7 @@
 
 # Hello, I'm Divyang! 👋
 
-🚀 Full Stack Developer | 💻 React, Redux, PHP (Laravel, CodeIgniter) Enthusiast | 🌐 Database Expert
+🚀 Full Stack Developer | 💻 React, Redux, PHP (Laravel, CodeIgniter) Expert | 🌐 Database Expert
 
 Welcome to my GitHub profile! I'm **Divyang**, a dedicated **Full Stack Developer** with a keen interest in building robust and efficient web applications. With in-depth expertise in **React**, **Redux**, **PHP (Laravel, CodeIgniter)**, and proficiency in a variety of databases including **MySQL**, **PostgreSQL**, **MongoDB**, and **Firebase**, I have accumulated several years of experience in the tech industry. Let's dive into some of my exciting projects and coding adventures!
 
