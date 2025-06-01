@@ -1,74 +1,84 @@
 <p align="center">
-<!--   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b76111gd21s8467va0k3n1wgrgvxvhtwdfclbr7luk170&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Divyang Dodiya" width="1000px"/> -->  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyangdodiya&theme=highcontrast" alt="GitHub Stats" />
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyangdodiya&theme=highcontrast)
+<h1 align="center">Hi there, I'm Divyang! 👋</h1>
 
-# Hello, I'm Divyang! 👋
+<p align="center">
+  🚀 Full Stack Developer | 💻 React, Redux, PHP | 🧠 Always Learning | 🌍 Based in India
+</p>
 
-🚀 Full Stack Developer | 💻 React, Redux, PHP (Laravel, CodeIgniter) Expert | 🌐 Database Expert
+---
 
-Welcome to my GitHub profile! I'm **Divyang**, a dedicated **Full Stack Developer** with a keen interest in building robust and efficient web applications. With in-depth expertise in **React**, **Redux**, **PHP (Laravel, CodeIgniter)**, and proficiency in a variety of databases including **MySQL**, **PostgreSQL**, **MongoDB**, and **Firebase**, I have accumulated several years of experience in the tech industry. Let's dive into some of my exciting projects and coding adventures!
+### 👨‍💻 About Me
 
-## 💻 My Tech Stack
+I'm **Divyang Dodiya**, a passionate Full Stack Developer focused on building scalable, performant web applications. I specialize in:
 
-- Frontend: **React.js**, **Redux**, **JavaScript**, **HTML5**, **CSS3**, **Tailwind**, **Chakra UI**
-- Backend: **PHP (Laravel, CodeIgniter)**, **Node JS (Express JS)**
-- Databases: **MySQL**, **PostgreSQL**, **MongoDB**, **Firebase**
-- DevOps : **LAMP Stack Setup**, **Github**, **Deployments on Digitalocean / AWS / Googe Cluod**
+- ✅ **React, Redux, JavaScript** on the frontend  
+- ✅ **PHP (Laravel, CodeIgniter), Node.js (Express)** on the backend  
+- ✅ **MySQL, PostgreSQL, MongoDB, Firebase** for data storage  
+- ✅ **DevOps** with LAMP stack, deployments on DigitalOcean, AWS & GCP
 
-## 🌱 Learning & Exploring
+---
 
-Continuous learning is key to staying relevant in the ever-evolving tech landscape. Currently, I'm diving into:
+### 🧰 Tech Stack
 
-- **Advanced React Techniques**: Exploring state management patterns and performance optimizations in React.
-- **Server-side Rendering with Next.js and Remix.Run**: Enhancing SEO and performance with server-rendered React applications.
+| Frontend | Backend | Databases | DevOps & Tools |
+|---------|---------|-----------|----------------|
+| React, Redux, JS, HTML, CSS, Tailwind, Chakra UI | PHP (Laravel, CI), Node.js | MySQL, PostgreSQL, MongoDB, Firebase | GitHub, LAMP, DigitalOcean, AWS, GCP |
 
-## 🚀 My Projects
+---
 
-Let's take a glance at some of the projects I've contributed to:
+### 🚧 Projects
 
-1. **Whizz-kit**
-   - **Domain:** Event Management
-   - **Description:** An event management software showcasing real-time ongoing event data.
-   - **Responsibilities:** 
-     - Login Management
-     - Event Requests and Approvals
-     - Events Management
-     - Push Notifications
-     - Users and Stock Management
-     - Real-time Analytics
-     - Companies Management
+#### 🔹 [Whizz-kit](#)
+> Event management platform with real-time data, analytics, and notification systems.  
+🛠️ Login, Event Flow, Push Notifications, Real-time Analytics
 
-2. **Zextras (Carbonio)**
-   - **Domain:** Private Organization Communication Management (Google Workspace Replication)
-   - **Description:** A suite of applications like Gmail, Drive, and Meet tailored for private organizations to be hosted on their own servers.
-   - **Responsibilities:** 
-     - Login Management
-     - Mails, Contacts, and Calendars Management
-     - Domain and Admin Operations Management
+#### 🔹 [Zextras (Carbonio)](#)
+> Self-hosted Google Workspace alternative for private organizations.  
+🛠️ Mail, Calendar, Admin Controls, Secure Domain Management
 
-3. **Project Management System**
-   - **Domain:** ERP
-   - **Description:** A comprehensive PMS facilitating task communication between teams with periodic revenue analysis and estimations.
-   - **Responsibilities:** 
-     - Login and Employee Management
-     - Timer Management
-     - Reports Generation (Hourly Activity, Employee’s Performance)
-     - Task and Feedback Management
-     - Company Prolific Analysis
+#### 🔹 [Project Management System](#)
+> ERP-style PMS with advanced team collaboration and reporting tools.  
+🛠️ Task, Timer, Report Generation, Revenue Analysis
 
-## 📫 Let's Connect
+---
 
-I'm always open to connecting with fellow developers, tech enthusiasts, and anyone passionate about innovation. Feel free to reach out through:
+### 🌱 Currently Exploring
 
-- Email: **devxdodiya@gmail.com**
-- Skype : **divyangdodiya**
-- Linked In : **https://www.linkedin.com/in/divyang-dodiya/**
+- 🤖 **AI Explorations from a Developer's Lens**: Integrating AI/ML capabilities into full-stack workflows for smarter apps  
+- 📊 **Stabilizing Digital Solutions**: Improving performance, scalability, and reliability of production systems  
+- 👁️‍🗨️ **Observability**: Monitoring, logging, and tracing for proactive system health and debugging  
+- ☁️ **Cloud Architecture**: Designing scalable cloud-native solutions using **AWS** and **Azure**
 
-## ⚡ Fun Fact
+---
 
-Outside of coding, I enjoy exploring new cuisines and embarking on outdoor adventures!
+### 📬 Connect with Me
 
-Thanks for visiting my profile! Let's collaborate and build exceptional tech solutions together!
+<p align="left">
+  <a href="mailto:devxdodiya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-devxdodiya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/divyang-dodiya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-divyang--dodiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/users/divyang-dodiya" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-Certifications-orange?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge" />
+  </a>
+</p>
 
+- 💬 **Skype / Teams Username:** `divyangdodiya`  
+- 🧑‍💻 **GitHub Followers:** ![GitHub followers](https://img.shields.io/github/followers/divyangdodiya?label=Follow&style=social)
+
+---
+
+### ⚡ Fun Fact
+
+I love building MVPs, going on late-night outings, exploring historical places, playing indoor games, and spending quality time with my family. ❤️
+
+---
+
+> 👀 Thanks for stopping by! Let’s connect and build something amazing together!
